@@ -1,0 +1,12 @@
+{
+  "TODO Before Merge": {
+    "prefix": "tdbm",
+    "body": ["<!-- TODO:BEFORE-MERGE:TUCKER - $1 -->"],
+    "description": "TODO Before Merge"
+  },
+  "FIXME Before Merge": {
+    "prefix": "fmbm",
+    "body": ["<!-- FIXME:BEFORE-MERGE:TUCKER - $1 -->"],
+    "description": "FIXME Before Merge"
+  }
+}
